@@ -1,0 +1,17 @@
+C:\Saravanan\AZURE\Monitoring\LabWebApplication\LabWebApplication
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=LabWebApplication
+--content-root=C:\Saravanan\AZURE\Monitoring\LabWebApplication\LabWebApplication
+--file=C:\Saravanan\AZURE\Monitoring\LabWebApplication\LabWebApplication\Views\Employee\Create.cshtml
+--file=C:\Saravanan\AZURE\Monitoring\LabWebApplication\LabWebApplication\Views\Employee\Delete.cshtml
+--file=C:\Saravanan\AZURE\Monitoring\LabWebApplication\LabWebApplication\Views\Employee\Details.cshtml
+--file=C:\Saravanan\AZURE\Monitoring\LabWebApplication\LabWebApplication\Views\Employee\Edit.cshtml
+--file=C:\Saravanan\AZURE\Monitoring\LabWebApplication\LabWebApplication\Views\Employee\Index.cshtml
+--file=C:\Saravanan\AZURE\Monitoring\LabWebApplication\LabWebApplication\Views\Home\About.cshtml
+--file=C:\Saravanan\AZURE\Monitoring\LabWebApplication\LabWebApplication\Views\Home\Contact.cshtml
+--file=C:\Saravanan\AZURE\Monitoring\LabWebApplication\LabWebApplication\Views\Home\Index.cshtml
+--file=C:\Saravanan\AZURE\Monitoring\LabWebApplication\LabWebApplication\Views\Shared\Error.cshtml
+--file=C:\Saravanan\AZURE\Monitoring\LabWebApplication\LabWebApplication\Views\Shared\_Layout.cshtml
+--file=C:\Saravanan\AZURE\Monitoring\LabWebApplication\LabWebApplication\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Saravanan\AZURE\Monitoring\LabWebApplication\LabWebApplication\Views\_ViewImports.cshtml
+--file=C:\Saravanan\AZURE\Monitoring\LabWebApplication\LabWebApplication\Views\_ViewStart.cshtml

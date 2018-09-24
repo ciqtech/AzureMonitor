@@ -1,0 +1,19 @@
+{
+    "apiVersion": "vlabs",
+    "properties": {     
+      "agentPoolProfiles": [
+        {
+          "name": "win2",
+          "count": 1,
+          "vmSize": "Standard_D1_v1",
+          "osType": "Windows",
+          "dnsPrefix": "agnt"
+        }
+      ],
+      "windowsProfile": {
+        "adminUsername": "ciqadmin",
+        "adminPassword": "CloudIQ2017$",
+        "imageVersion": "1709.1.008001"
+      }
+    }
+  }

@@ -1,0 +1,15 @@
+C:\Saravanan\AZURE\Monitoring\LabWebApplication\LabWebApplication\bin\release\netcoreapp2.0\win-x64\hostpolicy.dll
+C:\Saravanan\AZURE\Monitoring\LabWebApplication\LabWebApplication\bin\release\netcoreapp2.0\win-x64\hostfxr.dll
+C:\Saravanan\AZURE\Monitoring\LabWebApplication\LabWebApplication\bin\release\netcoreapp2.0\win-x64\LabWebApplication.exe
+C:\Saravanan\AZURE\Monitoring\LabWebApplication\LabWebApplication\bin\release\netcoreapp2.0\win-x64\LabWebApplication.deps.json
+C:\Saravanan\AZURE\Monitoring\LabWebApplication\LabWebApplication\bin\release\netcoreapp2.0\win-x64\LabWebApplication.runtimeconfig.json
+C:\Saravanan\AZURE\Monitoring\LabWebApplication\LabWebApplication\bin\release\netcoreapp2.0\win-x64\LabWebApplication.runtimeconfig.dev.json
+C:\Saravanan\AZURE\Monitoring\LabWebApplication\LabWebApplication\bin\release\netcoreapp2.0\win-x64\LabWebApplication.dll
+C:\Saravanan\AZURE\Monitoring\LabWebApplication\LabWebApplication\bin\release\netcoreapp2.0\win-x64\LabWebApplication.pdb
+C:\Saravanan\AZURE\Monitoring\LabWebApplication\LabWebApplication\bin\release\netcoreapp2.0\win-x64\LabApplicationBackendLayer.dll
+C:\Saravanan\AZURE\Monitoring\LabWebApplication\LabWebApplication\bin\release\netcoreapp2.0\win-x64\LabApplicationBackendLayer.pdb
+C:\Saravanan\AZURE\Monitoring\LabWebApplication\LabWebApplication\obj\release\netcoreapp2.0\win-x64\LabWebApplication.csproj.CoreCompileInputs.cache
+C:\Saravanan\AZURE\Monitoring\LabWebApplication\LabWebApplication\obj\release\netcoreapp2.0\win-x64\LabWebApplication.AssemblyInfoInputs.cache
+C:\Saravanan\AZURE\Monitoring\LabWebApplication\LabWebApplication\obj\release\netcoreapp2.0\win-x64\LabWebApplication.AssemblyInfo.cs
+C:\Saravanan\AZURE\Monitoring\LabWebApplication\LabWebApplication\obj\release\netcoreapp2.0\win-x64\LabWebApplication.dll
+C:\Saravanan\AZURE\Monitoring\LabWebApplication\LabWebApplication\obj\release\netcoreapp2.0\win-x64\LabWebApplication.pdb
